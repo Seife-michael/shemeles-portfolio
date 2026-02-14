@@ -1,3 +1,4 @@
+import { motion } from 'framer-motion';
 const cases = [
   {
     category: "Tax Strategy",

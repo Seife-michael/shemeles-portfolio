@@ -1,3 +1,4 @@
+import { motion } from 'framer-motion';
 const services = [
   { title: 'Tax Strategy', desc: 'Comprehensive planning to optimize your tax liabilities and ensure compliance.' },
   { title: 'Audit & Assurance', desc: 'Independent evaluation of your financial statements to build investor trust.' },
